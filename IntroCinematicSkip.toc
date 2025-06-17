@@ -2,6 +2,6 @@
 ## Title: IntroCinematicSkip
 ## Notes: Cancels the intro cinematic which plays every time for those of us who have the annoying bug.
 ## Author: CloudyPSP
-## Version: 1.01
+## Version: @project-version@
 
 IntroCinematicSkip.lua
