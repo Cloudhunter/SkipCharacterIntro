@@ -1,4 +1,4 @@
-## Interface: 110105
+## Interface: 110107
 ## Title: IntroCinematicSkip
 ## Notes: Cancels the intro cinematic which plays every time for those of us who have the annoying bug.
 ## Author: CloudyPSP
